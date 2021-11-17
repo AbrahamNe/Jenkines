@@ -23,6 +23,7 @@ public class LastElementOfaStream {
 			.get();
 	System.out.println(lastElement);
 	System.out.println("Hello from Jenkins");
+	System.out.println("Jenkins connectd to Git......");
 	}
 
 }
